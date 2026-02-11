@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on SUSTech.
+- 🔭 I’m currently studying on SUSTech IEOR.
 - 🌱 I’m currently learning Mathmatic Analysis,MS,Data 8.
 - 👯 I’m looking to collaborate on some interesting projects.
 - 🤔 I’m looking for help with math, data science, IEOR.
